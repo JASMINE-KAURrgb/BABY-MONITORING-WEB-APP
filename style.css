@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+    background-image: linear-gradient(orange,magenta);
+}
+#title
+{
+font-size:30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+font-style: italic;
+text-decoration: underline;
+background-image: linear-gradient(pink,red);
+border: 2px black solid;
+}
+
+h3
+{
+font-size: 24px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-image: linear-gradient(blue,yellow);
+color: aqua;
+border-radius: 60px;
+border: 2px aqua dashed;
+}
+canvas{
+    box-shadow:10px 10px 10px magenta;
+    border-radius: 10px;
+    border: 5px black solid;
+}
